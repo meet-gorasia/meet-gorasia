@@ -25,7 +25,7 @@ I’m aspiring to be successful developer ...
 ## Languages and tools
 
 <h4 style="color:White" align = "left">Web Development Tools:</h4>
-<h6 style="color:White" align = "left">Frontend Tools:</h6>
+<h5 style="color:White" align = "left">Frontend Tools:</h5>
  <h5> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
 
