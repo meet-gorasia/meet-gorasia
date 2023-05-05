@@ -9,7 +9,7 @@
 
 I’m aspiring to be successful developer ...
 
-- 🌱 I’m currently learning **Flutter, C++, Python**
+- 🌱 I’m currently learning **Front End Development**
 
 - ⚡ Fun fact **if not Software developer I would rather be Food Vlogger ;)**
 
